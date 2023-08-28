@@ -4,7 +4,7 @@ from deep_translator import GoogleTranslator
 import pyttsx4
 
 # Set the password
-password = "161213"
+password = "password123"
 
 linux_version = 19.97
 lang = ''
